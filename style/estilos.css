@@ -74,6 +74,11 @@ header{
     display: block;
 }
 
+.imagen4 img{
+    width: 100%;
+    display: block;
+}
+
 
 /*////FOOTER////*/
 
@@ -271,5 +276,11 @@ footer{
 
 .card{
     font-family: "Roboto", sans-serif;
+}
+
+.navpages{
+    display: flex;
+    justify-content: center;
+    background-color:rgb(211, 209, 209);
 }
 
